@@ -3,6 +3,10 @@ A lightweight wrapper which simplifies the node-mongodb-native module.
 
 ## Installation
 ```bash
+$ npm install mongodb-native-wrapper
+```
+or
+```bash
 $ npm install https://github.com/derek82511/mongodb-native-wrapper.git
 ```
 
