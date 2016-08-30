@@ -1,14 +1,18 @@
 {
-  "name": "mongodb-native-wrapper",
-  "version": "1.0.0",
-  "description": "A lightweight wrapper which simplifies the node-mongodb-native module.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Derek Chang",
-  "license": "MIT",
-  "dependencies": {
-    "mongodb": "^2.2.8"
-  }
+    "name": "mongodb-native-wrapper",
+    "version": "1.0.1",
+    "description": "A lightweight wrapper which simplifies the node-mongodb-native module.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Derek Chang",
+    "license": "MIT",
+    "dependencies": {
+        "mongodb": "^2.2.8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/derek82511/mongodb-native-wrapper"
+    }
 }
